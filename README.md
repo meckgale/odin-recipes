@@ -1,3 +1,3 @@
 # odin-recipes
 
-This project aims to create basic only HMTL based website while using git and github.
+This project aims to create only basic HMTL based website while using git and github.
