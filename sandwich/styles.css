@@ -1,0 +1,18 @@
+* {
+    font-family: Arial, Verdana, Helvetica;
+}
+
+.headline {
+    background-color:darkseagreen;
+    color: dimgray;
+    text-align: center;
+}
+
+.list {
+    font-style: italic;
+}
+
+p {
+    font-family: "Times New Roman", "Georgia", "Garamond";
+    font-size: 18px;
+}
